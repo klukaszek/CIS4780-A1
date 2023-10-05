@@ -1,5 +1,5 @@
 # CIS4780-A1
-K-NearestNeighbors, Linear Regression, and Logistic Regression
+K-Nearest Neighbors, Linear Regression, and Logistic Regression
 
 ## Assignment Grade: ? 
 
