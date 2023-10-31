@@ -1,7 +1,7 @@
 # CIS4780-A1
 K-Nearest Neighbors, Linear Regression, and Logistic Regression
 
-## Assignment Grade: ? 
+## Assignment Grade: 100% 
 
 This assignment is entirely implemented in the Jupyter Notebook.
 
